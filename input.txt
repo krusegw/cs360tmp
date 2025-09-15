@@ -1,6 +1,0 @@
-participants: Bhuvi, Maddie, Jahnavi, Erika, Jess
-forbidden:
-Bhuvi -> Jahnavi
-Maddie -> Erika
-Erika -> Jess
-Jess -> Bhuvi
